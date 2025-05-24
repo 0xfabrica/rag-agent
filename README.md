@@ -79,7 +79,7 @@ Asistente conversacional basado en RAG (Retrieval-Augmented Generation) para res
 
 - **Documentos:** Añade o reemplaza archivos PDF en la carpeta `docs/` para actualizar la base de conocimiento.
 - **Prompt:** Modifica el prompt en [`rag_agent.py`](rag_agent.py) para cambiar el tono o el formato de las respuestas.
-- ** Base de datos:** Añade una base de datos para guardar las conversaciones.
+- **Base de datos:** Añade una base de datos para guardar las conversaciones.
 
 ## Dependencias principales
 
